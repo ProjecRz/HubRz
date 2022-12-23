@@ -1,10 +1,6 @@
 ## GetKey
 HubRz GetKey only supports [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228).
-To get your 'userkey' you must go to your **Tools > Api / Developers Api** and get the key Url **NOT including the &url=** or anything else after the key, you can refer to the image below.
-
-![HowtogetApiKey](https://user-images.githubusercontent.com/94430800/209266603-3b00fbad-08dd-4cb0-a36f-43afc3815796.jpg)
-
-
+To get your 'userkey' you must go to your **Tools > Api / Developers Api** and get the key Url **NOT including the &url=yourdestinationlink.com&alias=CustomAlias** or anything else after the key
 ```
 HubRz:CreateKey({
   Title = "HubRz"
@@ -16,5 +12,9 @@ HubRz:CreateKey({
     ██║░░██║╚██████╔╝██████╦╝██║░░██║███████╗
     ╚═╝░░╚═╝░╚═════╝░╚═════╝░╚═╝░░╚═╝╚══════╝
   )
+ UserKey = "http://adfoc.us/api/?key=86242a3ea2003ba5584240a6e2cfe54d"
+ PasteUserUrl = "" -- <= Recommend leaving this blank, if you want to.. use your pastebin user key, but be warned it will clutter your pastebin homepage
+ CheckpointsExpireDate = "5M" -- <= Usage: [N]ever, [M]inutes, [H]our, [D]ays, [W]eeks, [M]onths, [Y]ears
+ AmountOfCheckpoints = "2" -- <= Only use 2 / 4, Because it will split the user revenue, to us and you.
 })
 ```
