@@ -1,6 +1,6 @@
 ## GetKey
 CreateKey only supports [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228).
-To get your 'userkey' you must go to your **Tools > Api / Developers Api** and get the key Url **NOT including the &url=yourdestinationlink.com&alias=CustomAlias** or anything else after the key
+To get your 'userkey' you must go to your **Tools > Api / Developers Api** and get the key Url **NOT including the "&url=yourdestinationlink.com&alias=CustomAlias"** or anything else after the key
 ```
 HubRz:CreateKey({
   Title = "HubRz"
