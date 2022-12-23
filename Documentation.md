@@ -22,7 +22,7 @@ print(KeyUrl)
 ```
 
 ## VerifyKey
-Verify returns 1 => Valid, 0 => Invalid, you can use the '**HubRz:VerifyKey(KeyInput) > 0**' Because it's simpler. 
+VerifyKey returns 1 => Valid, 0 => Invalid, you can use the '**HubRz:VerifyKey(KeyInput) > 0**' Because it's simpler. 
 ```lua
 if HubRz:VerifyKey(KeyInput) > 0 then
   print("Key Is Valid")
