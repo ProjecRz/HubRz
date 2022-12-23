@@ -22,4 +22,11 @@ print(KeyUrl)
 ```
 
 ## VerifyKey
+```lua
+if HubRz:VerifyKey(KeyInput) > 0 then
+  print("Key Is Valid")
+else
+  print("Key Is Invalid")
+end
+```
 
