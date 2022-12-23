@@ -17,6 +17,8 @@ local KeyUrl = HubRz:CreateKey({
  CheckpointsExpireDate = "5M" -- <= Usage: [N]ever, [M]inutes, [H]our, [D]ays, [W]eeks, [M]onths, [Y]ears
  AmountOfCheckpoints = "2" -- <= Only use 2 / 4, Because it will split the user revenue, to us and you.
 })
+
+print(KeyUrl)
 ```
 
 ## VerifyKey
