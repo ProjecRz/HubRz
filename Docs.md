@@ -9,7 +9,8 @@
     - [Server Crashing Methods](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#server-crashing-methods)
   - [Obfuscator](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#obfuscator)
     - [Obfuscation Methods](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#obfuscation-methods)
-  - [Espionage](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#nil)
+  - [Espionage](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#espionage)
+    - [Espionage Output](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#espionage-output)
 
 # Usage
 To use this you must have a text editor e.g: Notepad, Sublime Text, Notepad++ etc.. and to execute the script using an exploit api, Like Synapse X, ScriptWare, Krnl etc..
@@ -184,7 +185,7 @@ print(
   Info.ProfileVisibility
 )
 ```
-Usage:
+### Espionage Output:
 - Id
 - Desc
 - Name
