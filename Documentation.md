@@ -120,6 +120,8 @@ local code = ("
 local Obfuscated = HubRz:Obfuscator({
   Code = "print(\"Hello World!\")"
   Methods = {
+    "Garbage",
+    "Blocker",
     "Fast",
     "Normal",
     "Hard"
