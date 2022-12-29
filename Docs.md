@@ -1,16 +1,16 @@
 # On This Page
 - [On This Page](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#on-this-page)
   - Introduction
-- [Usage](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#usage)
-  - [KeySystem](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#createkey)
-    - [CreateKey](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#createkey)
-    - [VerifyKey](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#verifykey)
-  - [FPS Booster](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#fps-booster)
-  - [DoS (Server Crasher)](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#dos-server-crasher)
-    - [Server Crashing Methods](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#server-crashing-methods)
-  - [Obfuscator](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#obfuscator)
-    - [Obfuscation Methods](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#obfuscation-methods)
-  - [Espionage](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#nil)
+- [Usage](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#usage)
+  - [KeySystem](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#createkey)
+    - [CreateKey](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#createkey)
+    - [VerifyKey](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#verifykey)
+  - [FPS Booster](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#fps-booster)
+  - [DoS (Server Crasher)](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#dos-server-crasher)
+    - [Server Crashing Methods](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#server-crashing-methods)
+  - [Obfuscator](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#obfuscator)
+    - [Obfuscation Methods](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#obfuscation-methods)
+  - [Espionage](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#nil)
 
 # Usage
 
