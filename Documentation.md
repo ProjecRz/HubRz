@@ -43,4 +43,94 @@ else
 end
 ```
 
+# FPS Booster
+Documentation in progress . . .
+
+# DoS
+DoS (Denial of Service / Server Crasher) feature is used to crash Roblox (Game) Servers.
+
+``lua
+HubRz:Dos("Chat")
+``
+
+You can also use an *``array/table``* to attack using multiple methods.
+
+``lua
+local methods = {"Chat", "Table", "Teleport", "Remote"}
+HubRz:Dos(methods)
+``
+
+Alternatively / Fast way:
+
+``lua
+HubRz:Dos({"Chat", "Table", "Teleport", "Remote"})
+``
+
+Methods Server Crashing:
+- Chat
+- Table
+- Teleport
+- Remote
+
+# Obfuscator
+Obfuscator requires you to use an *``array/table``* to obfuscate and/or to use multiple methods.
+
+``lua
+local Obfuscated = HubRz:Obfuscator({
+  Code = "print(\"Hello World!\")"
+  Methods = "Fast"
+})
+print(Obfuscated)
+``
+
+If your code is longer:
+
+``lua
+local code = ("
+  print(\"Hello World!\")
+  for n in 10 do
+    print(n)
+  end
+   print(\"Done!\")
+")
+
+local Obfuscated = HubRz:Obfuscator({
+  Code = "print(\"Hello World!\")"
+  Methods = "Fast"
+})
+print(Obfuscated)
+``
+
+If your using multiple methods, Make sure that every **``argument``** in Methods have an **``,``** at the end, Also note that depending on how you arrange the arguments, it will use the obfuscate method from the top to bottom of the arguments, it's recommend to use things like **``Garbage``** or **``Blocker``** on the top arguments, before the code obfuscation methods are initialized.
+
+``lua
+local code = ("
+  print(\"Hello World!\")
+  for n in 10 do
+    print(n)
+  end
+   print(\"Done!\")
+")
+
+local Obfuscated = HubRz:Obfuscator({
+  Code = "print(\"Hello World!\")"
+  Methods = {
+    "Fast",
+    "Normal",
+    "Hard"
+    }
+})
+print(Obfuscated)
+``
+
+Methods:
+- Code Obfuscation Methods
+  - Fast
+  - Normal
+  - Hard
+  - Expert
+- Obscuration Methods
+  - Garbage
+  - Blocker 
+
 DISCLAIMER: HubRz's "tools" are made for educational purposes and with no intent in harming roblox servers (Physical), And any harm done using this "tool" will not be our responsibility for the action of the user whom uses this "tool", Any claims of Malicious code from this tool is false even though it's obfuscated, If you do wish to use this "tool" in anyway e.g: Using it in your script and anyone using the script, Is responsible for any conciquences caused by this tool, and by using the "tool" you hearby acknowlage that you are responsible for the conciquences caused by this tool, This tool can be used for your liking andor intention.
