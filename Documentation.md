@@ -4,7 +4,9 @@
   - VerifyKey
 - FPS Booster
 - DoS (Server Crasher)
+  - Server Crashing Methods
 - Obfuscator
+  - Obfuscation Methods
 - Espionage 
 
 # CreateKey
@@ -71,7 +73,7 @@ Alternatively / Fast way:
 HubRz:Dos({"Chat", "Table", "Teleport", "Remote"})
 ```
 
-### Methods Server Crashing:
+### Server Crashing Methods:
 - Chat
 - Table
 - Teleport
