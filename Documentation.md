@@ -130,7 +130,7 @@ local Obfuscated = HubRz:Obfuscator({
 print(Obfuscated)
 ```
 
-## Obfuscation Methods:
+### Obfuscation Methods:
 - Code Obfuscation Methods
   - Fast
   - Normal
