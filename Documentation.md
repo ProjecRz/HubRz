@@ -106,7 +106,7 @@ local Obfuscated = HubRz:Obfuscator({
 print(Obfuscated)
 ```
 
-If your using multiple methods, Make sure that every **``argument``** in Methods have an **``,``** at the end, Also note that depending on how you arrange the arguments, it will use the obfuscate method from the top to bottom of the arguments, it's recommend to use things like **``Garbage``** or **``Blocker``** on the top arguments, before the code obfuscation methods are initialized.
+If your using multiple methods, Make sure that every **``argument``** in Methods have an **``,``** at the end, Also note that depending on how you arrange the arguments, It will use the obfuscate method from the top to bottom of the arguments, It's recommend to use things like **``Garbage``** or **``Blocker``** on the top arguments, Before the code obfuscation methods are initialized.
 
 ```lua
 local code = ("
