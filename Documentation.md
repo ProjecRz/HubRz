@@ -71,7 +71,7 @@ Alternatively / Fast way:
 HubRz:Dos({"Chat", "Table", "Teleport", "Remote"})
 ```
 
-Methods Server Crashing:
+### Methods Server Crashing:
 - Chat
 - Table
 - Teleport
@@ -130,7 +130,7 @@ local Obfuscated = HubRz:Obfuscator({
 print(Obfuscated)
 ```
 
-Methods:
+## Obfuscation Methods:
 - Code Obfuscation Methods
   - Fast
   - Normal
