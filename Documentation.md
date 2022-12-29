@@ -1,5 +1,5 @@
 # On This Page
-- On This Page
+- [On This Page](https://github.com/ProjecRz/HubRz/blob/main/Documentation.md#createkey)
   - Introduction
 - Usage
   - KeySystem
@@ -12,7 +12,9 @@
     - Obfuscation Methods
   - Espionage 
 
-# CreateKey
+# KeySystem
+
+## CreateKey
 CreateKey only supports [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228). To get your 'userkey', follow these steps:
 
 1. Go to Tools > Api / Developers Api.
@@ -38,7 +40,7 @@ local KeyUrl = HubRz:CreateKey({
 print(KeyUrl)
 ```
 
-# VerifyKey
+## VerifyKey
 VerifyKey returns **`1`** for a valid key, **`0`** for an invalid key, You can use the '**HubRz:VerifyKey(KeyInput) > 0**' as a simpler way to check if the key is valid.
 ```lua
 if HubRz:VerifyKey(KeyInput) > 0 then
