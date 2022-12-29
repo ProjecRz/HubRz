@@ -49,29 +49,27 @@ Documentation in progress . . .
 # DoS
 DoS (Denial of Service / Server Crasher) feature is used to crash Roblox (Game) Servers.
 
-``lua
+```lua
 HubRz:Dos("Chat")
-``
+```
 
 You can also use an *``array/table``* to attack using multiple methods.
 
-``lua
+```lua
 local methods = {
   "Chat", 
   "Table", 
   "Teleport", 
   "Remote"
   }
-
 HubRz:Dos(methods)
-
-``
+```
 
 Alternatively / Fast way:
 
-``lua
+```lua
 HubRz:Dos({"Chat", "Table", "Teleport", "Remote"})
-``
+```
 
 Methods Server Crashing:
 - Chat
@@ -82,17 +80,17 @@ Methods Server Crashing:
 # Obfuscator
 Obfuscator requires you to use an *``array/table``* to obfuscate and/or to use multiple methods.
 
-``lua
+```lua
 local Obfuscated = HubRz:Obfuscator({
   Code = "print(\"Hello World!\")"
   Methods = "Fast"
 })
 print(Obfuscated)
-``
+```
 
 If your code is longer:
 
-``lua
+```lua
 local code = ("
   print(\"Hello World!\")
   for n in 10 do
@@ -106,11 +104,11 @@ local Obfuscated = HubRz:Obfuscator({
   Methods = "Fast"
 })
 print(Obfuscated)
-``
+```
 
 If your using multiple methods, Make sure that every **``argument``** in Methods have an **``,``** at the end, Also note that depending on how you arrange the arguments, it will use the obfuscate method from the top to bottom of the arguments, it's recommend to use things like **``Garbage``** or **``Blocker``** on the top arguments, before the code obfuscation methods are initialized.
 
-``lua
+```lua
 local code = ("
   print(\"Hello World!\")
   for n in 10 do
@@ -128,7 +126,7 @@ local Obfuscated = HubRz:Obfuscator({
     }
 })
 print(Obfuscated)
-``
+```
 
 Methods:
 - Code Obfuscation Methods
