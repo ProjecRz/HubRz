@@ -1,6 +1,5 @@
 # On This Page
 - [On This Page](https://github.com/ProjecRz/HubRz/blob/main/Docs.md#on-this-page)
-  - Introduction
 - [Usage](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#usage)
   - [KeySystem](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#createkey)
     - [CreateKey](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#createkey)
@@ -13,8 +12,10 @@
   - [Espionage](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#nil)
 
 # Usage
+To use this you must have a text editor e.g: Notepad, Sublime Text, Notepad++ etc.. and to execute the script using an exploit api, Like Synapse X, ScriptWare, Krnl etc..
 
 # KeySystem
+The KeySystem can be custom made but it only supports 2 Linkshortener Services that can be used for the User/Developer/Scripter (You) and ProjectRz to profit on, The 50% or in which half of the revenue per user will go to your Adfoc.us / ClicksFly Account Balance, Do note that the first half of the keysystem is ours and the second half is yours, It's recommended to show your audience how to get the key from the keysystem, due to the complexity of both services, particularly **adfoc.us**.
 
 ## CreateKey
 CreateKey only supports [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228). To get your 'userkey', follow these steps:
