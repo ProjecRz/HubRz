@@ -11,7 +11,7 @@
     - [Obfuscation Methods](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#obfuscation-methods)
   - [Espionage](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#espionage)
     - [Espionage Output](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#espionage-output)
-
+- [Disclaimer](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#disclaimer)
 # Usage
 To use this you must have a text editor e.g: Notepad, Sublime Text, Notepad++ etc.. and to execute the script using an exploit api, Like Synapse X, ScriptWare, Krnl etc..
 
@@ -212,5 +212,7 @@ print(
 - ExternDisplayname
 - CurrentUniverseId
 - ProfileVisibility
+
+### Disclaimer
 
 DISCLAIMER: HubRz's "tools" are made for educational purposes and with no intent in harming roblox servers (Physical), And any harm done using these "tools" will not be our responsibility for the action of the user whom uses this "tool", Any claims of Malicious code from this tool is false even though it's obfuscated, If you do wish to use these "tools" in anyway e.g: Using it in your script and anyone using the script, Is responsible for any conciquences caused by these tools, and by using the "tools" you hearby acknowlage that you are responsible for the conciquences caused by these tools, These "tools" can be used for your liking and/or intention.
