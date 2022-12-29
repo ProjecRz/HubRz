@@ -150,4 +150,66 @@ print(Obfuscated)
   - Garbage
   - Blocker 
 
-DISCLAIMER: HubRz's "tools" are made for educational purposes and with no intent in harming roblox servers (Physical), And any harm done using this "tool" will not be our responsibility for the action of the user whom uses this "tool", Any claims of Malicious code from this tool is false even though it's obfuscated, If you do wish to use this "tool" in anyway e.g: Using it in your script and anyone using the script, Is responsible for any conciquences caused by this tool, and by using the "tool" you hearby acknowlage that you are responsible for the conciquences caused by this tool, This tool can be used for your liking andor intention.
+# Espionage
+Espionage is a tool that get's every roblox account users information **except for robux** from the roblox Api's and compiles it into one table so you don't have to.
+
+```lua
+local Info = HubRz:Espionage("Username_Not_Displayname")
+print(
+  Info.Id
+  Info.Desc
+  Info.Name
+  Info.Avatar
+  Info.Status
+  Info.Banned
+  Info.Verified
+  Info.Inventory
+  Info.UriAvatar
+  Info.Universes
+  Info.GroupRoles
+  Info.GroupRoles
+  Info.CreateDate
+  Info.Displayname
+  Info.FinalAvatar
+  Info.GroupPrimary
+  Info.PresenceType
+  Info.Displaynames
+  Info.LastLocation
+  Info.AvatarClothes
+  Info.CurrentGameId
+  Info.Avatarheadshot
+  Info.CurrentPlaceId
+  Info.ExternDisplayname
+  Info.CurrentUniverseId
+  Info.ProfileVisibility
+)
+```
+Usage:
+- Id
+- Desc
+- Name
+- Avatar
+- Status
+- Banned
+- Verified
+- Inventory
+- UriAvatar
+- Universes
+- GroupRoles
+- GroupRoles
+- CreateDate
+- Displayname
+- FinalAvatar
+- GroupPrimary
+- PresenceType
+- Displaynames
+- LastLocation
+- AvatarClothes
+- CurrentGameId
+- Avatarheadshot
+- CurrentPlaceId
+- ExternDisplayname
+- CurrentUniverseId
+- ProfileVisibility
+
+DISCLAIMER: HubRz's "tools" are made for educational purposes and with no intent in harming roblox servers (Physical), And any harm done using these "tools" will not be our responsibility for the action of the user whom uses this "tool", Any claims of Malicious code from this tool is false even though it's obfuscated, If you do wish to use these "tools" in anyway e.g: Using it in your script and anyone using the script, Is responsible for any conciquences caused by these tools, and by using the "tools" you hearby acknowlage that you are responsible for the conciquences caused by these tools, These "tools" can be used for your liking and/or intention.
