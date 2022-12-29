@@ -1,3 +1,12 @@
+# On This Page
+- KeySystem
+  - CreateKey
+  - VerifyKey
+- FPS Booster
+- DoS (Server Crasher)
+- Obfuscator
+- Espionage 
+
 # CreateKey
 CreateKey only supports [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228). To get your 'userkey', follow these steps:
 
@@ -33,3 +42,5 @@ else
   print("Key Is Invalid")
 end
 ```
+
+DISCLAIMER: HubRz's "tools" are made for educational purposes and with no intent in harming roblox servers (Physical), And any harm done using this "tool" will not be our responsibility for the action of the user whom uses this "tool", Any claims of Malicious code from this tool is false even though it's obfuscated, If you do wish to use this "tool" in anyway e.g: Using it in your script and anyone using the script, Is responsible for any conciquences caused by this tool, and by using the "tool" you hearby acknowlage that you are responsible for the conciquences caused by this tool.
