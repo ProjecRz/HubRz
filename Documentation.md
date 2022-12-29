@@ -56,7 +56,12 @@ HubRz:Dos("Chat")
 You can also use an *``array/table``* to attack using multiple methods.
 
 ``lua
-local methods = {"Chat", "Table", "Teleport", "Remote"}
+local methods = {
+  "Chat", 
+  "Table", 
+  "Teleport", 
+  "Remote"
+  }
 HubRz:Dos(methods)
 ``
 
