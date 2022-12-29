@@ -82,7 +82,7 @@ Obfuscator requires you to use an *``array/table``* to obfuscate and/or to use m
 
 ```lua
 local Obfuscated = HubRz:Obfuscator({
-  Code = "print(\"Hello World!\")"
+  Code = "print(\"Hello World!\")",
   Methods = "Fast"
 })
 print(Obfuscated)
@@ -100,7 +100,7 @@ local code = ("
 ")
 
 local Obfuscated = HubRz:Obfuscator({
-  Code = "print(\"Hello World!\")"
+  Code = code,
   Methods = "Fast"
 })
 print(Obfuscated)
