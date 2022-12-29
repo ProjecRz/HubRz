@@ -1,6 +1,9 @@
-## CreateKey
-CreateKey only supports [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228).
-To get your 'userkey' you must go to your **Tools > Api / Developers Api** and get the key Url **NOT including the "&url=yourdestinationlink.com&alias=CustomAlias"** or anything else after the key
+# CreateKey
+CreateKey only supports [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228). To get your 'userkey', follow these steps:
+
+1. Go to Tools > Api / Developers Api.
+
+2. Retrieve the key URL excluding the "&url=yourdestinationlink.com&alias=CustomAlias" and any additional parameters after the key.
 ```lua
 local KeyUrl = HubRz:CreateKey({
   Title = "HubRz"
@@ -22,7 +25,7 @@ print(KeyUrl)
 ```
 
 ## VerifyKey
-VerifyKey **returns 1 => Valid, 0 => Invalid**, you can use the '**HubRz:VerifyKey(KeyInput) > 0**' Because it's simpler. 
+VerifyKey returns **`1`** for a valid key, **`0`** for an invalid key, You can use the '**HubRz:VerifyKey(KeyInput) > 0**' as a simpler way to check if the key is valid.
 ```lua
 if HubRz:VerifyKey(KeyInput) > 0 then
   print("Key Is Valid")
