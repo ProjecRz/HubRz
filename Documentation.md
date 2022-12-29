@@ -62,7 +62,9 @@ local methods = {
   "Teleport", 
   "Remote"
   }
+
 HubRz:Dos(methods)
+
 ``
 
 Alternatively / Fast way:
