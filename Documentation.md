@@ -24,7 +24,7 @@ local KeyUrl = HubRz:CreateKey({
 print(KeyUrl)
 ```
 
-## VerifyKey
+# VerifyKey
 VerifyKey returns **`1`** for a valid key, **`0`** for an invalid key, You can use the '**HubRz:VerifyKey(KeyInput) > 0**' as a simpler way to check if the key is valid.
 ```lua
 if HubRz:VerifyKey(KeyInput) > 0 then
