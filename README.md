@@ -1,3 +1,3 @@
 <p align="center"> 
-  <h1> e corp </h1>
+  <h3> e corp </h3>
 </p>
