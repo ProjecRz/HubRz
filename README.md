@@ -1,1 +1,1 @@
-<p style="text-align:center", size="6">Center this text</p>
+<p style="text-align:center;font-size:300%">Center this text</p>
