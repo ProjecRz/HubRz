@@ -177,32 +177,32 @@ Espionage is a tool that get's every roblox account users information **except f
 ```lua
 local Info = HubRz:Espionage("Username_Not_Displayname")
 print(
-  Info.Id
-  Info.Desc
-  Info.Name
-  Info.Avatar
-  Info.Status
-  Info.Banned
-  Info.Verified
-  Info.Inventory
-  Info.UriAvatar
-  Info.Universes
-  Info.GroupRoles
-  Info.GroupRoles
-  Info.CreateDate
-  Info.Displayname
-  Info.FinalAvatar
-  Info.GroupPrimary
-  Info.PresenceType
-  Info.Displaynames
-  Info.LastLocation
-  Info.AvatarClothes
-  Info.CurrentGameId
-  Info.Avatarheadshot
-  Info.CurrentPlaceId
-  Info.ExternDisplayname
-  Info.CurrentUniverseId
-  Info.ProfileVisibility
+  Info.Id .. " " ..
+  Info.Desc .. " " ..
+  Info.Name .. " " ..
+  Info.Avatar .. " " ..
+  Info.Status .. " " ..
+  Info.Banned .. " " ..
+  Info.Verified .. " " ..
+  Info.Inventory .. " " ..
+  Info.UriAvatar .. " " ..
+  Info.Universes .. " " ..
+  Info.GroupRoles .. " " ..
+  Info.GroupRoles .. " " ..
+  Info.CreateDate .. " " ..
+  Info.Displayname .. " " ..
+  Info.FinalAvatar .. " " ..
+  Info.GroupPrimary .. " " ..
+  Info.PresenceType .. " " ..
+  Info.Displaynames .. " " ..
+  Info.LastLocation .. " " ..
+  Info.AvatarClothes .. " " ..
+  Info.CurrentGameId .. " " ..
+  Info.Avatarheadshot .. " " ..
+  Info.CurrentPlaceId .. " " ..
+  Info.ExternDisplayname .. " " ..
+  Info.CurrentUniverseId .. " " ..
+  Info.ProfileVisibility .. " " ..
 )
 ```
 ### Espionage Output:
