@@ -92,7 +92,7 @@ HubRz:Dos({"Chat", "Table", "Teleport", "Remote"})
 - Remote
 
 # Obfuscator
-Obfuscator requires you to use an *``array/table``* to obfuscate and/or to use multiple methods.
+Obfuscator, Made by [Vikari honest](https://t.me/Luagameguardian), Requires you to use an *``array/table``* to obfuscate and/or to use multiple methods, You can also use the [web version](http://luaobfuscator.epizy.com/)
 
 ```lua
 local Obfuscated = HubRz:Obfuscator({
