@@ -17,7 +17,7 @@ To use this you must have a text editor e.g: Notepad, Sublime Text, Notepad++ et
 
 ## Initializion
 ```lua
-local HubRz = loadstring(HttpGet("Unavailable"))()
+local HubRz = loadstring(game:HttpGet("Unavailable"))()
 ```
 
 ## Implementation
