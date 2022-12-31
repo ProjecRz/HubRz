@@ -17,7 +17,7 @@ To use this you must have a text editor e.g: Notepad, Sublime Text, Notepad++ et
 
 📡: Can be used without the Hub, 📃: Requires the hub.
 
-# KeySystem
+# 📡KeySystem
 The KeySystem can be custom made but it only supports 2 Linkshortener Services that can be used for the **User/Developer/Scripter (You)** and **ProjectRz** to profit on, A **50/50 percent profit** will be splitted to us and you, The 50% or in which half of the **Revenue Per User (RPU)** will go to your **Adfoc.us / ClicksFly Account Balance**, **Do note that the first half of the keysystem is ours and the second half is yours**, It's recommended to show your audience how to get the key from the keysystem, due to the complexity of both services, particularly **adfoc.us**.
 
 ## CreateKey
@@ -59,10 +59,10 @@ else
 end
 ```
 
-# FPS Booster
+# 📃FPS Booster
 Documentation in progress . . .
 
-# DoS
+# 📃DoS
 DoS (Denial of Service / Server Crasher) feature is used to crash Roblox (Game) Servers.
 
 ```lua
@@ -93,7 +93,7 @@ HubRz:Dos({"Chat", "Table", "Teleport", "Remote"})
 - Teleport
 - Remote
 
-# Obfuscator
+# 📡Obfuscator
 Obfuscator, Made by [Vikari honest](https://t.me/Luagameguardian), Requires you to use an *``array/table``* to obfuscate and/or to use multiple methods, You can also use the [web version](http://luaobfuscator.epizy.com/)
 
 ```lua
@@ -156,7 +156,7 @@ print(Obfuscated)
   - Garbage
   - Blocker 
 
-# Espionage
+# 📡Espionage
 Espionage is a tool that get's every roblox account users information **except for robux** from the roblox Api's and compiles it into one table so you don't have to.
 
 ```lua
