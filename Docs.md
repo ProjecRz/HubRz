@@ -33,6 +33,7 @@ These are the currently supported paying link shorteners, Don't know what choose
 | [Adfocus](https://adfoc.us/?refid=700817) | [Payout Rates](https://adfoc.us/payout-rates) | AdFocus is a free short URL redirection service with a twist. Get paid for links you share on the internet.
 | [ClicksFly](https://clicksfly.com/ref/104769173789973858228) | [Payout Rates](https://clicksfly.com/payout-rates) | ClicksFly is a Highest Paying URL Shortener & free tool where you can create short links, which, apart from being free, you get paid!
 | [Adf.ly](https://join-adf.ly/25011261) | [Publisher Rates](https://ay.gy/rates) | Earn money for each visitor to your shortened links with adf.ly! Use a URL shortener service that pays.
+| [Adult.xyz](https://adult.xyz/?id=27067613) | [Publisher Rates](https://adult.xyz/rates) | Earn money for each visitor to your shortened links with adult.xyz! Use a URL shortener service that pays.
 
 ## CreateKey
 To get your 'userkey', follow these steps:
