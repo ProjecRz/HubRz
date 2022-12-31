@@ -33,10 +33,11 @@ These are the currently supported paying link shorteners, Don't know what choose
 | [Adfocus](https://adfoc.us/?refid=700817) | [Payout Rates](https://adfoc.us/payout-rates) | AdFocus is a free short URL redirection service with a twist. Get paid for links you share on the internet.
 | [ClicksFly](https://clicksfly.com/ref/104769173789973858228) | [Payout Rates](https://clicksfly.com/payout-rates) | ClicksFly is a Highest Paying URL Shortener & free tool where you can create short links, which, apart from being free, you get paid!
 | [Adf.ly](https://join-adf.ly/25011261) | [Publisher Rates](https://ay.gy/rates) | Earn money for each visitor to your shortened links with adf.ly! Use a URL shortener service that pays.
-## CreateKey
-CreateKey only supports [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228). To get your 'userkey', follow these steps:
 
-1. Sign In / Log In to [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228) which ever you prefer.
+## CreateKey
+To get your 'userkey', follow these steps:
+
+1. Sign In / Log In to These [supported services]((https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#supported))
 
 2. Go to Tools > Api / Developers Api.
 
