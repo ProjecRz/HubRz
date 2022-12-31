@@ -15,6 +15,8 @@
 # Usage
 To use this you must have a text editor e.g: Notepad, Sublime Text, Notepad++ etc.. and to execute the script using an exploit api, Like Synapse X, ScriptWare, Krnl etc..
 
+📡: Can be used without the Hub, 📃: Requires the hub.
+
 # KeySystem
 The KeySystem can be custom made but it only supports 2 Linkshortener Services that can be used for the **User/Developer/Scripter (You)** and **ProjectRz** to profit on, A **50/50 percent profit** will be splitted to us and you, The 50% or in which half of the **Revenue Per User (RPU)** will go to your **Adfoc.us / ClicksFly Account Balance**, **Do note that the first half of the keysystem is ours and the second half is yours**, It's recommended to show your audience how to get the key from the keysystem, due to the complexity of both services, particularly **adfoc.us**.
 
