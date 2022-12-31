@@ -27,6 +27,7 @@ local HubRz = loadstring(game:HttpGet("Unavailable"))()
 The KeySystem can be custom made but it only supports 2 Linkshortener Services that can be used for the **User/Developer/Scripter (You)** and **ProjectRz** to profit on, A **50/50 percent profit** will be splitted to us and you, The 50% or in which half of the **Revenue Per User (RPU)** will go to your **Adfoc.us / ClicksFly Account Balance**, **Do note that the first half of the keysystem is ours and the second half is yours**, It's recommended to show your audience how to get the key from the keysystem, due to the complexity of both services, particularly **adfoc.us**.
 
 ## Supported
+These are the currently supported paying link shorteners, Don't know what choose? [Compare Em'](https://trends.google.com/trends/explore?date=all&q=adfly,adfocus,clicksfly)
 | Service | CPM | Description |
 |---------|-----|-------------|
 | [Adfocus](https://adfoc.us/?refid=700817) | [Payout Rates](https://adfoc.us/payout-rates) | AdFocus is a free short URL redirection service with a twist. Get paid for links you share on the internet.
