@@ -37,7 +37,7 @@ These are the currently supported paying link shorteners, Don't know what choose
 ## CreateKey
 To get your 'userkey', follow these steps:
 
-1. Sign In / Log In to These [supported services]((https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#supported))
+1. Sign In / Log In to These [supported services](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#supported))
 
 2. Go to Tools > Api / Developers Api.
 
