@@ -13,7 +13,7 @@
     - [Espionage Output](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#espionage-output)
 - [Disclaimer](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#disclaimer)
 # Usage
-To use this you must have a text editor e.g: Notepad, Sublime Text, Notepad++ etc.. and to execute the script using an exploit api, Like Synapse X, ScriptWare, Krnl etc..
+To use this you must have a text editor e.g: [Notepad](http://bit.ly/3XdyMqT)), [Sublime Text](http://bit.ly/3VxKhId), [Notepad++](http://bit.ly/3G6vA9w) etc.. and to execute the script using an exploit api, Like [Synapse X](https://bit.ly/3WY5See), [ScriptWare](https://bit.ly/3WY60KK), [Krnl](https://bit.ly/3IfmHNE) etc..
 
 ## Initializion
 ```lua
