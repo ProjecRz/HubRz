@@ -40,7 +40,7 @@ To get your 'userkey', follow these steps:
 
 1. Sign In / Log In to These [supported services](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#supported))
 
-2. Go to Tools > Api / Developers Api.
+2. Go to Tools / Developers Api > Api / Developers Api.
 
 3. Retrieve the key URL excluding the "&url=yourdestinationlink.com&alias=CustomAlias" and any additional parameters after the key.
 
