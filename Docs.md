@@ -172,7 +172,7 @@ print(Obfuscated)
   - Blocker 
 
 # 📡Espionage
-Espionage is a tool that get's every roblox account users information **except for robux or anuthing that is not given by the roblox api** from the roblox Api's and compiles it into one table so you don't have to.
+Espionage is a tool that get's every roblox account users information **except for robux or anything that is not given by the roblox api** from the roblox Api's and compiles it into one table so you don't have to.
 
 ```lua
 local Info = HubRz:Espionage("Username_Not_Displayname")
