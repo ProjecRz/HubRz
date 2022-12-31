@@ -4,6 +4,7 @@
   - [Initialization](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#initialization)
   - [Implementation](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#implementation) 
   - [KeySystem](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#createkey)
+    - [Supported](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#supported) 
     - [CreateKey](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#createkey)
     - [VerifyKey](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#verifykey)
   - [FPS Booster](https://github.com/ProjecRz/HubRz/blob/v1/Docs.md#fps-booster)
