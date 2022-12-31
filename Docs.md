@@ -27,11 +27,11 @@ local HubRz = loadstring(game:HttpGet("Unavailable"))()
 The KeySystem can be custom made but it only supports 2 Linkshortener Services that can be used for the **User/Developer/Scripter (You)** and **ProjectRz** to profit on, A **50/50 percent profit** will be splitted to us and you, The 50% or in which half of the **Revenue Per User (RPU)** will go to your **Adfoc.us / ClicksFly Account Balance**, **Do note that the first half of the keysystem is ours and the second half is yours**, It's recommended to show your audience how to get the key from the keysystem, due to the complexity of both services, particularly **adfoc.us**.
 
 ## Supported
-| Service | CPM |
-|---------|-----|
-| [Adfocus](https://adfoc.us/?refid=700817) | [Payout Rates](https://adfoc.us/payout-rates) |
-| [ClicksFly](https://clicksfly.com/ref/104769173789973858228) | [Payout Rates](https://clicksfly.com/payout-rates)
-| [Adf.ly](https://join-adf.ly/25011261) | [Publisher Rates](https://ay.gy/rates) |
+| Service | CPM | Description |
+|---------|-----|-------------|
+| [Adfocus](https://adfoc.us/?refid=700817) | [Payout Rates](https://adfoc.us/payout-rates) | AdFocus is a free short URL redirection service with a twist. Get paid for links you share on the internet.
+| [ClicksFly](https://clicksfly.com/ref/104769173789973858228) | [Payout Rates](https://clicksfly.com/payout-rates) | ClicksFly is a Highest Paying URL Shortener & free tool where you can create short links, which, apart from being free, you get paid!
+| [Adf.ly](https://join-adf.ly/25011261) | [Publisher Rates](https://ay.gy/rates) | Earn money for each visitor to your shortened links with adf.ly! Use a URL shortener service that pays.
 ## CreateKey
 CreateKey only supports [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228). To get your 'userkey', follow these steps:
 
