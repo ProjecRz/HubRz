@@ -15,6 +15,12 @@
 # Usage
 To use this you must have a text editor e.g: Notepad, Sublime Text, Notepad++ etc.. and to execute the script using an exploit api, Like Synapse X, ScriptWare, Krnl etc..
 
+## Initializion
+```lua
+local HubRz = loadstring(HttpGet("Unavailable"))()
+```
+
+## Implementation
 📡: Can be used without the Hub, 📃: Requires the hub.
 
 # 📡KeySystem
