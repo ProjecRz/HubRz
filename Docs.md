@@ -21,9 +21,12 @@ The KeySystem can be custom made but it only supports 2 Linkshortener Services t
 ## CreateKey
 CreateKey only supports [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228). To get your 'userkey', follow these steps:
 
-1. Go to Tools > Api / Developers Api.
+1. Sign In / Log In to [adfoc.us](https://adfoc.us/?refid=700817) or [ClicksFly](https://clicksfly.com/ref/104769173789973858228) which ever you prefer.
 
-2. Retrieve the key URL excluding the "&url=yourdestinationlink.com&alias=CustomAlias" and any additional parameters after the key.
+2. Go to Tools > Api / Developers Api.
+
+3. Retrieve the key URL excluding the "&url=yourdestinationlink.com&alias=CustomAlias" and any additional parameters after the key.
+
 ```lua
 local KeyUrl = HubRz:CreateKey({
   Title = "HubRz"
